@@ -1,0 +1,8 @@
+/home/lobo/repos/ExtDistcp/src/main/java/org/apache/hadoop/tools/rename/Rename.java
+/home/lobo/repos/ExtDistcp/src/main/java/org/apache/hadoop/tools/rename/IdentityName.java
+/home/lobo/repos/ExtDistcp/src/main/java/org/apache/hadoop/tools/ExtDistCp.java
+/home/lobo/repos/ExtDistcp/src/main/java/org/apache/hadoop/tools/mapred/ExtCopyMapper.java
+/home/lobo/repos/ExtDistcp/src/main/java/org/apache/hadoop/tools/mapred/CopyMapper.java
+/home/lobo/repos/ExtDistcp/src/main/java/org/apache/hadoop/tools/rename/PrefixSufixName.java
+/home/lobo/repos/ExtDistcp/src/main/java/org/apache/hadoop/tools/rename/RenameFactory.java
+/home/lobo/repos/ExtDistcp/src/main/java/org/apache/hadoop/tools/rename/RegExName.java
